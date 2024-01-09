@@ -8,5 +8,10 @@ _
 + It will display current time
 + user can set any number of alarm
 + user can delete the alarm
+
+  ### Tech used
+  + HTML
+  + CSS
+  + Javascript
   
 
