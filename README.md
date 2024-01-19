@@ -13,5 +13,13 @@
   + HTML
   + CSS
   + Javascript
+ 
+  # Alarm-Clock Before setting Alarm
+  
+![clock fresh](https://github.com/Mohd-Akbar1/Imdb-Clone/assets/146831190/fc8a3682-3efb-440d-83c7-62f2066af12a)
+
+#  Alarm-clock After setting multiple Alarm
+![clock](https://github.com/Mohd-Akbar1/Imdb-Clone/assets/146831190/16520620-792d-4dcd-ae5e-285cbe1758c5)
+
   
 
